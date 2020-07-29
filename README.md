@@ -29,7 +29,7 @@ _Figure 1. Docsify Open Publishing Starter Kit for Import. Explore a demo of Doc
 ---
 
 1. Edit the file `index.html` in your imported Docsify files
-2. Find the sample GitHub URL `'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-import'` and replace it with your own GitHub project URL, for example `https://github.com/YourGitHubUsername/Docsify/blob/master/docs/``
+2. Find the sample GitHub URL `'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-import'` and replace it with your own GitHub project URL, for example `'https://github.com/YourGitHubUsername/Docsify/blob/master/docs/'`
 3. Save your changes.
 
 📚 Learn More about Docsify
