@@ -22,7 +22,7 @@ _Figure 1. Docsify Open Publishing Starter Kit for Import. Explore a demo of Doc
 1. Fork this repository
 2. Copy the Git address of your newly forked GitHub repository
 3. Import this project into your PaaS environment, using the Git address previously copied to your clipboard
-4. Setup and configure the needed service to push GitHub repository changes to your PaaS environment
+4. Setup and configure the needed service to push GitHub repository changes to your PaaS environment (for example, on Jelastic this would be the [Git-Push-Deploy package](https://jelastic.com/blog/git-push-deploy-to-containers/))
 5. And you're done!
 
 📝 "Edit the Page on GitHub" Link Setup
